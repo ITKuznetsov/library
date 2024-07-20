@@ -7,7 +7,7 @@ class LibraryApp:
 
     def run(self):
         while True:
-            print("1. Добавить книгу")
+            print("\n1. Добавить книгу")
             print("2. Удалить книгу")
             print("3. Найти книгу")
             print("4. Показать все книги")
